@@ -75,8 +75,9 @@ p {
 items in the nav section*/
 
 .topnav {
-	background-color: #886798;
+	background-color: #444444;
 	overflow: hidden;
+	color: black;
 }
 
 .topnav a {
@@ -89,7 +90,7 @@ items in the nav section*/
 
 /* Change the color of links on hover */
 .topnav a:hover {
-	background-color: #ddd;
+	background-color: rgb(126, 202, 170);
 	color: black;
 }
 
